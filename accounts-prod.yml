@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs with config server from git"
   contactDetails:
     name: "JProd - Product owner"
-    email: "jprod@eazybank.com"
+    email: "{cipher}2d2ae60e56b7468f597240c572d93ebaa796da506e3d62c7aab5fd5d0aa61233fc40eed167fbacffec81a3dc77d5ad05"
   onCallSupport:
     - (222) 555-1234
     - (222) 523-1345

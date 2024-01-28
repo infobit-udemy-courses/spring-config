@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs with config server"
+  message: "Welcome to EazyBank accounts related prod APIs with config server from git"
   contactDetails:
     name: "JProd - Product owner"
     email: "jprod@eazybank.com"

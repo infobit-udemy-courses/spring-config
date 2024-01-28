@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs with config server"
+  contactDetails:
+    name: "JProd - Product owner"
+    email: "jprod@eazybank.com"
+  onCallSupport:
+    - (222) 555-1234
+    - (222) 523-1345
